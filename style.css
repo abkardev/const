@@ -522,6 +522,10 @@ nav {
 .section-title{
   text-align: center;
 }
+.service {
+  display:flex;
+  
+}
 
 .download-title {
   padding-bottom: 15px;
